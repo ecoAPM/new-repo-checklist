@@ -7,6 +7,10 @@ This file lists the items that all ecoAPM-owned repositories should contain, for
   - MIT for libraries
 - Readme file
   - Badges
+    - Released version
+    - CI pipeline
+    - Test coverage
+    - Quality metrics
   - Description
   - Requirements
   - Installation
