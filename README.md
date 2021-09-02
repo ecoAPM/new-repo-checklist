@@ -21,3 +21,4 @@ This file lists the items that all ecoAPM-owned repositories should contain, for
 - GitHub Actions workflow
 - Release automation
 - Issue templates
+- EditorConfig
