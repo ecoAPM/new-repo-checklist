@@ -23,9 +23,14 @@ This file lists the items that all ecoAPM-owned repositories should contain, for
 - Issue templates
 - EditorConfig
 - GitHub settings
-  - Wiki off
-  - Sponsorship on
-  - Projects off
-  - Discussions on
-  - Merge commits off
-  - Auto-delete branches
+  - Features
+    - Wiki off
+    - Sponsorship on
+    - Projects off
+    - Discussions on
+  - Branches
+    - Merge commits off
+    - Auto-delete on
+  - Home Page
+    - Packages off
+    - Environments off
