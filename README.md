@@ -34,4 +34,5 @@ This file lists the items that all ecoAPM-owned repositories should contain, for
   - [ ] Home Page
     - [ ] Packages off
     - [ ] Environments off
+- [ ] Labels
 - [ ] Add to OSS Dashboard
