@@ -20,6 +20,7 @@ This file lists the items that all ecoAPM-owned repositories should contain, for
 - [ ] Dependabot configuration
 - [ ] GitHub Actions workflow
 - [ ] Release automation
+- [ ] CodeQL analysis
 - [ ] Issue templates
 - [ ] EditorConfig
 - [ ] GitHub settings
